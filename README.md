@@ -36,3 +36,20 @@ Chart Type: Funnel/Bar Chart.
 7. All Metrics by Outlet Type
 Objective: Provide a comprehensive view of KPIs (Total Sales, Average Sales, Number of Items, Average Rating) across different outlet types.
 Chart Type: Matrix Card.
+
+Dashboard Preview
+
+- (blinkit_dashboard.png)
+
+Tools Used
+
+- Power BI → Dashboard creation and visualization.
+- Excel/CSV Dataset → Source data for analysis.
+
+Key Insights
+
+- Total Sales: $1.20M
+- Highest Selling Categories: Fruits & Vegetables, Snack Foods, Household Items.
+- Outlet Location: Tier 3 contributes the highest sales ($472K).
+- Fat Content: Regular items drive 64.6% of total revenue.
+- Outlet Establishment: Peak sales in 2018, decline in 2011 outlets.
