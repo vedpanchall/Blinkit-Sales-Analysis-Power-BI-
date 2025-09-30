@@ -37,10 +37,6 @@ Chart Type: Funnel/Bar Chart.
 Objective: Provide a comprehensive view of KPIs (Total Sales, Average Sales, Number of Items, Average Rating) across different outlet types.
 Chart Type: Matrix Card.
 
-Dashboard Preview
-
-- (blinkit_dashboard.png)
-
 Tools Used
 
 - Power BI → Dashboard creation and visualization.
